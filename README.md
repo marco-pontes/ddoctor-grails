@@ -1,2 +1,2 @@
-ddoctor-grails2
+ddoctor-grails
 ===============
